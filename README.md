@@ -18,3 +18,5 @@ cd kodluyoruzilkrepo
 # License
 *MIT
 
+[patika linki](www.patika.dev)
+
